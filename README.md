@@ -1,1 +1,9 @@
-# .gitignorex
+target
+out
+node_modules
+types
+build
+dist
+.env
+.DS_Store
+scripts
